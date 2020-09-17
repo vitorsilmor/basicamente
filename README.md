@@ -1,7 +1,7 @@
 # Processador de promessas de pagamento.
 
   - Muitos clientes atrasam o pagamento. Logo, é necessário entrar em contato com eles e solicitar uma promessa de pagamento para a nota em atraso.
-  - Esse serviço faz exatamente isso: verifica se uma nota está com o status de vencida e, se estiver, a marca como 'prometida para pagamento' e envia um e-mail para o usuário.
+  - Esse serviço faz exatamente isso: verifica se uma nota está com o status de vencida e, se estiver, a marca como 'prometida para pagamento', cria um registro de cobrança e envia um e-mail para o usuário.
 
 
 Detalhes
